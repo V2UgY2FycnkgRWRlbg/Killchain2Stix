@@ -1,4 +1,7 @@
 
+Tools created for Trout Software you can see the original repo b following this link, and going though the tools section : https://github.com/TroutSoftware/eu-tis
+
+
 # KILLCHAIN TO STIX
                                                                      
 ## What is a killchain and what is a STIX2 ? 
