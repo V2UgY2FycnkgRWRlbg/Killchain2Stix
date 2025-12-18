@@ -1,6 +1,8 @@
 
 Tools created for Trout Software you can see the original repo by following this link, and going though the tools section : https://github.com/TroutSoftware/eu-tis
 
+<img width="528" height="416" alt="image" src="https://github.com/user-attachments/assets/cd20868d-bba8-4e73-9e5f-92749efa1852" />
+
 
 # KILLCHAIN TO STIX
                                                                      
